@@ -12,7 +12,6 @@ Mern-project/
 ├── frontend/ # React.js frontend
 ├── README.md # Project overview and instructions
 
-
 ## 🔧 Features
 
 - ✅ User Authentication
