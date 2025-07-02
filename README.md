@@ -1,9 +1,9 @@
-# MERN-Project 🚀
+## MERN-Project 🚀
 
 This is my internship project built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 It showcases full-stack development with separate **frontend**, **backend**, and **admin** modules.
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 Mern-project/
 │
